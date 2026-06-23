@@ -1,0 +1,2 @@
+this is day 01 of backend bootcampthis data is appended to data.txt file
+this data is appended to data.txt file
